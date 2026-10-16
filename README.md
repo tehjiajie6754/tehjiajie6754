@@ -38,12 +38,42 @@ Currently **open to internships and hackathon teams**.
 
 ## 🎯 Current Focus
 
-```text
-🧠  Edge AI & On-device Inference    ██████████████░░  ML that respects privacy — no cloud required
-🏗️  System Architecture              ████████████░░░░  ADRs, test coverage, docs that survive handoffs
-🎨  UI/UX Engineering                ██████████████░░  Interfaces that feel calm and intentional
-🚁  Autonomous Systems               ████████░░░░░░░░  Multi-agent coordination & drone simulation
-```
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Edge AI &amp; On-device Inference</h3>
+      <p>ML pipelines that never leave the device.<br/>Privacy by design, not by policy.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/In--browser_ML-58A6FF?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏗️ System Architecture</h3>
+      <p>ADRs, test coverage, and docs<br/>that survive handoffs.</p>
+      <img src="https://img.shields.io/badge/Clean_Code-2ECC71?style=flat-square"/>
+      <img src="https://img.shields.io/badge/122_Tests-27AE60?style=flat-square"/>
+      <img src="https://img.shields.io/badge/33_ADRs-16A085?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 UI/UX Engineering</h3>
+      <p>Interfaces that feel calm, fast,<br/>and intentional.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Design_Systems-9B59B6?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚁 Autonomous Systems</h3>
+      <p>Multi-agent coordination<br/>&amp; drone simulation.</p>
+      <img src="https://img.shields.io/badge/PX4_SITL-5E35B1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MAVLink-263238?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Gazebo-FF7043?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br/>
 
@@ -85,6 +115,8 @@ Currently **open to internships and hackathon teams**.
       <td>
         <strong>🚁 GodEye</strong><br/>
         <a href="https://github.com/tehjiajie6754/GodEye">repo ↗</a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-C0C0C0?style=flat-square"/>
       </td>
       <td>Search-and-rescue operations lack coordinated autonomous coverage. Manual drone piloting is slow, error-prone, and leaves gaps in search grids.</td>
       <td>
@@ -183,7 +215,8 @@ Currently **open to internships and hackathon teams**.
 | Area | Detail |
 |---|---|
 | 🥇 **HackAttack Champion** | Built Vanguard — a browser-native DLP tool that stops data leaks into AI chat with on-device inference |
-| 🚁 **Autonomous Drone Systems** | Simulated and coordinated a 4-drone search swarm using PX4 SITL + MAVLink |
+| 🏅 **VHACK — 4th Place** | GodEye — autonomous 4-drone search swarm simulation with live telemetry dashboard |
+| 🚁 **Autonomous Drone Systems** | Coordinated multi-drone search patterns using PX4 SITL + MAVLink; enforced real-world altitude constraints |
 | 🌱 **AgriTech for the Underserved** | Shipped KitaAgro for farmers with zero tech literacy — from AI diagnostics to land-rental marketplace |
 | 🎼 **Orchestral Conductor** | Rehearsed and led string sections; conducting sharpened my ability to balance competing voices under pressure |
 | 📄 **Engineering Rigour** | 122 test files · 33 ADRs · full PRD + QA doc sets across projects — I care about the parts that survive the demo |
