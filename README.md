@@ -40,14 +40,14 @@ Currently **open to internships**.
 
 <div align="center">
 
-<sub><i>What I'm building and thinking about most right now</i></sub>
+<i>What I'm building and thinking about most right now</i>
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="40" align="center">🧠</td>
-    <td align="left" width="340">
+    <td width="5%" align="center">🧠</td>
+    <td width="55%" align="left">
       <strong>Edge AI &amp; On-device Inference</strong><br/>
       <sub>ML that never leaves the device — privacy by design, not by policy</sub>
     </td>
