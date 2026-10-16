@@ -40,7 +40,7 @@ Currently **open to internships**.
 
 <div align="center"><i>What I'm building and thinking about most right now</i></div>
 
-<h3>
+<h4>
 
 🧠 &nbsp; **Edge AI & On-device Inference** &nbsp;—&nbsp; ML that never leaves the device, privacy by design
 
@@ -66,7 +66,7 @@ Currently **open to internships**.
 ![MAVLink](https://img.shields.io/badge/MAVLink-263238?style=flat-square)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7043?style=flat-square)
 
-</h3>
+</h4>
 
 ---
 
