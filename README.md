@@ -38,65 +38,33 @@ Currently **open to internships**.
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-<i>What I'm building and thinking about most right now</i>
+<div align="center"><i>What I'm building and thinking about most right now</i></div>
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="5%" align="center">🧠</td>
-    <td width="55%" align="left">
-      <strong>Edge AI &amp; On-device Inference</strong><br/>
-      <sub>ML that never leaves the device — privacy by design, not by policy</sub>
-    </td>
-    <td align="right">
-      <img src="https://skillicons.dev/icons?i=pytorch,python&theme=light" height="30"/>
-      &nbsp;<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-    </td>
-  </tr>
+🧠 &nbsp; **Edge AI & On-device Inference** &nbsp;—&nbsp; ML that never leaves the device, privacy by design
 
-  <tr>
-    <td align="center">🏗️</td>
-    <td align="left">
-      <strong>System Architecture</strong><br/>
-      <sub>ADRs, 122 test files, and docs that survive handoffs</sub>
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/122_Tests-2ECC71?style=flat-square"/>
-      <img src="https://img.shields.io/badge/33_ADRs-16A085?style=flat-square"/>
-      &nbsp;<img src="https://skillicons.dev/icons?i=git&theme=light" height="30"/>
-    </td>
-  </tr>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-  <tr>
-    <td align="center">🎨</td>
-    <td align="left">
-      <strong>UI/UX Engineering</strong><br/>
-      <sub>Interfaces that feel calm, fast, and intentional</sub>
-    </td>
-    <td align="right">
-      <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" height="30"/>
-      &nbsp;<img src="https://img.shields.io/badge/Design_Systems-9B59B6?style=flat-square"/>
-    </td>
-  </tr>
+🏗️ &nbsp; **System Architecture** &nbsp;—&nbsp; ADRs, 122 test files, and docs that survive handoffs
 
-  <tr>
-    <td align="center">🚁</td>
-    <td align="left">
-      <strong>Autonomous Systems</strong><br/>
-      <sub>Multi-agent coordination &amp; drone simulation</sub>
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/PX4_SITL-5E35B1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/MAVLink-263238?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Gazebo-FF7043?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+![122 Tests](https://img.shields.io/badge/122_Tests-2ECC71?style=flat-square)
+![33 ADRs](https://img.shields.io/badge/33_ADRs-16A085?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+🎨 &nbsp; **UI/UX Engineering** &nbsp;—&nbsp; Interfaces that feel calm, fast, and intentional
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-9B59B6?style=flat-square)
+
+🚁 &nbsp; **Autonomous Systems** &nbsp;—&nbsp; Multi-agent coordination & drone simulation
+
+![PX4 SITL](https://img.shields.io/badge/PX4_SITL-5E35B1?style=flat-square)
+![MAVLink](https://img.shields.io/badge/MAVLink-263238?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF7043?style=flat-square)
 
 <br/>
 
