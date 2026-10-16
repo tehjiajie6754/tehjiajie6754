@@ -39,40 +39,63 @@ Currently **open to internships**.
 ## 🎯 Current Focus
 
 <div align="center">
+
+<sub><i>What I'm building and thinking about most right now</i></sub>
+
+<br/>
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🧠 Edge AI &amp; On-device Inference</h3>
-      <p>ML pipelines that never leave the device.<br/>Privacy by design, not by policy.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/In--browser_ML-58A6FF?style=flat-square"/>
+    <td width="40" align="center">🧠</td>
+    <td align="left" width="340">
+      <strong>Edge AI &amp; On-device Inference</strong><br/>
+      <sub>ML that never leaves the device — privacy by design, not by policy</sub>
     </td>
-    <td align="center" width="50%">
-      <h3>🏗️ System Architecture</h3>
-      <p>ADRs, test coverage, and docs<br/>that survive handoffs.</p>
-      <img src="https://img.shields.io/badge/Clean_Code-2ECC71?style=flat-square"/>
-      <img src="https://img.shields.io/badge/122_Tests-27AE60?style=flat-square"/>
-      <img src="https://img.shields.io/badge/33_ADRs-16A085?style=flat-square"/>
+    <td align="right">
+      <img src="https://skillicons.dev/icons?i=pytorch,python&theme=light" height="30"/>
+      &nbsp;<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
     </td>
   </tr>
+  <tr><td colspan="3"><hr/></td></tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🎨 UI/UX Engineering</h3>
-      <p>Interfaces that feel calm, fast,<br/>and intentional.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Design_Systems-9B59B6?style=flat-square"/>
+    <td align="center">🏗️</td>
+    <td align="left">
+      <strong>System Architecture</strong><br/>
+      <sub>ADRs, 122 test files, and docs that survive handoffs</sub>
     </td>
-    <td align="center" width="50%">
-      <h3>🚁 Autonomous Systems</h3>
-      <p>Multi-agent coordination<br/>&amp; drone simulation.</p>
+    <td align="right">
+      <img src="https://img.shields.io/badge/122_Tests-2ECC71?style=flat-square"/>
+      <img src="https://img.shields.io/badge/33_ADRs-16A085?style=flat-square"/>
+      &nbsp;<img src="https://skillicons.dev/icons?i=git&theme=light" height="30"/>
+    </td>
+  </tr>
+  <tr><td colspan="3"><hr/></td></tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td align="left">
+      <strong>UI/UX Engineering</strong><br/>
+      <sub>Interfaces that feel calm, fast, and intentional</sub>
+    </td>
+    <td align="right">
+      <img src="https://skillicons.dev/icons?i=flutter,nextjs&theme=light" height="30"/>
+      &nbsp;<img src="https://img.shields.io/badge/Design_Systems-9B59B6?style=flat-square"/>
+    </td>
+  </tr>
+  <tr><td colspan="3"><hr/></td></tr>
+  <tr>
+    <td align="center">🚁</td>
+    <td align="left">
+      <strong>Autonomous Systems</strong><br/>
+      <sub>Multi-agent coordination &amp; drone simulation</sub>
+    </td>
+    <td align="right">
       <img src="https://img.shields.io/badge/PX4_SITL-5E35B1?style=flat-square"/>
       <img src="https://img.shields.io/badge/MAVLink-263238?style=flat-square"/>
       <img src="https://img.shields.io/badge/Gazebo-FF7043?style=flat-square"/>
     </td>
   </tr>
 </table>
+
 </div>
 
 <br/>
@@ -234,7 +257,7 @@ Currently **open to internships**.
 <div align="center">
 
 <a href="https://github.com/tehjiajie6754">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tehjiajie6754&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tehjiajie6754&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehjiajie6754&theme=default&hide_border=true&layout=compact&langs_count=8" />
 </a>
 
