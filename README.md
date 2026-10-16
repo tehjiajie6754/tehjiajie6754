@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+JJ+%F0%9F%91%8B;AI+Undergrad+%40+Universiti+Malaya;Builder+%C2%B7+Conductor+%C2%B7+Tinkerer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+JJ+%F0%9F%91%8B;AI+Undergrad+%40+Universiti+Malaya;Builder+%C2%B7+Conductor+%C2%B7+Tinkerer" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@ I tend to gravitate toward spaces where logic meets human nuance:
 
 > *I don't have everything figured out, but I enjoy the process of getting things right.*
 
-Currently **open to internships and hackathon teams**.
+Currently **open to internships**.
 
 <br/>
 
@@ -81,92 +81,96 @@ Currently **open to internships and hackathon teams**.
 
 ## 🏆 Featured Projects
 
+<div align="center">
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Problem Solved</th>
-      <th>Tech Stack</th>
-      <th>Highlights</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>🛡️ Vanguard</strong><br/>
-        <a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions">repo ↗</a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🥇_HackAttack-Champion-FFD700?style=flat-square"/>
-      </td>
-      <td>Traditional DLP is blind to AI chat boxes — TLS-encrypted input typed into a browser tab never hits the network scanner. Employees unknowingly leak sensitive data into ChatGPT or Claude.</td>
-      <td>
-        <code>TypeScript</code> <code>Manifest V3</code><br/>
-        <code>PyTorch</code> <code>ONNX</code><br/>
-        <code>FastAPI</code> <code>Supabase</code>
-      </td>
-      <td>
-        • On-device intent classifier in <strong>~0.6 ms</strong>, zero ML runtime shipped<br/>
-        • Transformer span classifier → ONNX for in-browser inference<br/>
-        • Hard review gate on Send + format-preserving redaction<br/>
-        • <strong>122 test files · 33 ADRs</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>🚁 GodEye</strong><br/>
-        <a href="https://github.com/tehjiajie6754/GodEye">repo ↗</a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-C0C0C0?style=flat-square"/>
-      </td>
-      <td>Search-and-rescue operations lack coordinated autonomous coverage. Manual drone piloting is slow, error-prone, and leaves gaps in search grids.</td>
-      <td>
-        <code>Python</code> <code>PX4 SITL</code><br/>
-        <code>Gazebo</code> <code>MAVLink</code><br/>
-        <code>Next.js</code>
-      </td>
-      <td>
-        • 4 drones · 4 sectors · simultaneous S-shaped lawnmower sweep<br/>
-        • Live telemetry streamed to 2D dashboard<br/>
-        • Hard <strong>30 m altitude floor</strong> enforced above tallest map structure
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>🌱 KitaAgro</strong><br/>
-        <a href="https://github.com/JeffTiong1031/KitaAgro">repo ↗</a>
-      </td>
-      <td>Farmers without tech literacy have no accessible tool for diagnosing crop issues, tracking plantations, or finding land — all critical decisions that cost real livelihoods.</td>
-      <td>
-        <code>Flutter</code> <code>Dart</code><br/>
-        <code>Firebase</code> <code>AI/ML APIs</code>
-      </td>
-      <td>
-        • AI pest, disease & nutrient diagnostics from camera photo<br/>
-        • Wind-aware pest distribution map with proximity alerts<br/>
-        • Plant journal + land-rental marketplace + community feed<br/>
-        • Video call support for expert consultation
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>✈️ Zen Travel</strong><br/>
-        <a href="https://github.com/tehjiajie6754/ZENTRAVEL">repo ↗</a>
-        <br/><br/>
-        <em>Team T-Junction</em>
-      </td>
-      <td>Luxury travel planning is fragmented — no single platform offers truly personalised itineraries with intelligent curation and secure, identity-aware access.</td>
-      <td>
-        <code>AI Itinerary Gen</code><br/>
-        <code>Face Recognition</code>
-      </td>
-      <td>
-        • AI-generated personalised travel itineraries<br/>
-        • Face recognition for identity-aware access<br/>
-        • Full engineering doc set: PRD, Software Analysis & Design, QA docs
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>🛡️ Vanguard</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Team_T--Junction-6e40c9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🥇_HackAttack-Champion-e3a008?style=flat-square"/>
+        &nbsp;<a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions"><strong>repo ↗</strong></a>
+      </p>
+      <p><em>Stops sensitive company data from ever reaching ChatGPT or Claude — and runs the detection on the employee's own device, so the prompt never leaves it.</em></p>
+      <ul>
+        <li>On-device intent classifier in <strong>~0.6 ms</strong>, zero ML runtime shipped</li>
+        <li>Transformer span classifier → ONNX for in-browser inference</li>
+        <li>Hard review gate on Send + format-preserving redaction</li>
+        <li><strong>122 test files · 33 ADRs</strong></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3>🚁 GodEye</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Team_T--Junction-6e40c9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-aaaaaa?style=flat-square"/>
+        &nbsp;<a href="https://github.com/tehjiajie6754/GodEye"><strong>repo ↗</strong></a>
+      </p>
+      <p><em>Coordinates four drones flying a simultaneous S-shaped lawnmower search across assigned sectors, streaming live telemetry to a 2D dashboard.</em></p>
+      <ul>
+        <li>4 drones · 4 sectors · simultaneous lawnmower sweep</li>
+        <li>Live telemetry streamed to 2D dashboard</li>
+        <li>Hard <strong>30 m altitude floor</strong> enforced above tallest map structure</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PX4_SITL-5E35B1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Gazebo-FF7043?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MAVLink-263238?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h3>🌱 KitaAgro</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Team_T--Junction-6e40c9?style=flat-square"/>
+        &nbsp;<a href="https://github.com/JeffTiong1031/KitaAgro"><strong>repo ↗</strong></a>
+      </p>
+      <p><em>A mobile app that helps farmers and home growers make faster decisions — from AI crop diagnostics to finding land to rent, built for people who've never opened a terminal.</em></p>
+      <ul>
+        <li>AI diagnostics for pests, disease &amp; nutrient deficiency from a photo</li>
+        <li>Wind-aware pest distribution map with proximity alerts</li>
+        <li>Plant journal + land-rental marketplace + community feed</li>
+        <li>Video call support for expert consultation</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI%2FML_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h3>✈️ Zen Travel</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Team_T--Junction-6e40c9?style=flat-square"/>
+        &nbsp;<a href="https://github.com/tehjiajie6754/ZENTRAVEL"><strong>repo ↗</strong></a>
+      </p>
+      <p><em>A luxury travel planning platform with AI-generated personalised itineraries — shipped with a full engineering document set including PRD, Software Analysis &amp; Design, and QA docs.</em></p>
+      <ul>
+        <li>AI-generated personalised travel itineraries</li>
+        <li>Face recognition for identity-aware access</li>
+        <li>Full engineering doc set: PRD, SA&amp;D, QA Testing Documentation</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Itinerary-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Face_Recognition-FF6B6B?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
+</div>
 
 <br/>
 
@@ -230,14 +234,14 @@ Currently **open to internships and hackathon teams**.
 <div align="center">
 
 <a href="https://github.com/tehjiajie6754">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tehjiajie6754&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehjiajie6754&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tehjiajie6754&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehjiajie6754&theme=default&hide_border=true&layout=compact&langs_count=8" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/tehjiajie6754">
-  <img src="https://streak-stats.demolab.com?user=tehjiajie6754&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tehjiajie6754&theme=default&hide_border=true" />
 </a>
 
 <br/><br/>
