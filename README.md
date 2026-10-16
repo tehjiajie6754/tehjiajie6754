@@ -109,7 +109,7 @@ Currently **open to internships**.
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>🛡️ Vanguard</h3>
-      <p><sub><em>Team T-Junction</em></sub> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/🥇_HackAttack-Champion-e3a008?style=flat-square"/> &nbsp;<a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions"><strong>repo ↗</strong></a></p>
+      <p><img src="https://img.shields.io/badge/🥇_HackAttack-Champion-e3a008?style=flat-square"/> &nbsp;<a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions"><strong>repo ↗</strong></a></p>
       <p><em>Stops sensitive company data from ever reaching ChatGPT or Claude — and runs the detection on the employee's own device, so the prompt never leaves it.</em></p>
       <ul>
         <li>On-device intent classifier in <strong>~0.6 ms</strong>, zero ML runtime shipped</li>
@@ -125,10 +125,11 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
+      <p><sub><em>Team T-Junction</em></sub></p>
     </td>
     <td width="50%" valign="top" align="left">
       <h3>🚁 GodEye</h3>
-      <p><sub><em>Team T-Junction</em></sub> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-aaaaaa?style=flat-square"/> &nbsp;<a href="https://github.com/tehjiajie6754/GodEye"><strong>repo ↗</strong></a></p>
+      <p><img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-aaaaaa?style=flat-square"/> &nbsp;<a href="https://github.com/tehjiajie6754/GodEye"><strong>repo ↗</strong></a></p>
       <p><em>Coordinates four drones flying a simultaneous S-shaped lawnmower search across assigned sectors, streaming live telemetry to a 2D dashboard.</em></p>
       <ul>
         <li>4 drones · 4 sectors · simultaneous lawnmower sweep</li>
@@ -142,13 +143,14 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/MAVLink-263238?style=flat-square"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       </p>
+      <p><sub><em>Team T-Junction</em></sub></p>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>🌱 KitaAgro</h3>
-      <p><sub><em>Team T-Junction</em></sub> &nbsp;·&nbsp; <a href="https://github.com/JeffTiong1031/KitaAgro"><strong>repo ↗</strong></a></p>
+      <p><a href="https://github.com/JeffTiong1031/KitaAgro"><strong>repo ↗</strong></a></p>
       <p><em>A mobile app that helps farmers and home growers make faster decisions — from AI crop diagnostics to finding land to rent, built for people who've never opened a terminal.</em></p>
       <ul>
         <li>AI diagnostics for pests, disease &amp; nutrient deficiency from a photo</li>
@@ -162,10 +164,11 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/AI%2FML_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
       </p>
+      <p><sub><em>Team T-Junction</em></sub></p>
     </td>
     <td width="50%" valign="top" align="left">
       <h3>✈️ Zen Travel</h3>
-      <p><sub><em>Team T-Junction</em></sub> &nbsp;·&nbsp; <a href="https://github.com/tehjiajie6754/ZENTRAVEL"><strong>repo ↗</strong></a></p>
+      <p><a href="https://github.com/tehjiajie6754/ZENTRAVEL"><strong>repo ↗</strong></a></p>
       <p><em>A luxury travel planning platform with AI-generated personalised itineraries — shipped with a full engineering document set including PRD, Software Analysis &amp; Design, and QA docs.</em></p>
       <ul>
         <li>AI-generated personalised travel itineraries</li>
@@ -176,6 +179,7 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/AI_Itinerary-4285F4?style=flat-square&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Face_Recognition-FF6B6B?style=flat-square"/>
       </p>
+      <p><sub><em>Team T-Junction</em></sub></p>
     </td>
   </tr>
 </table>
