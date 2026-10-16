@@ -109,7 +109,7 @@ Currently **open to internships**.
   <tr>
     <td width="50%" valign="top" align="left">
       <h3>🛡️ Vanguard</h3>
-      <p><img src="https://img.shields.io/badge/🥇_HackAttack-Champion-e3a008?style=flat-square"/> &nbsp;<a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions"><strong>repo ↗</strong></a></p>
+      <p><img src="https://img.shields.io/badge/🥇_HackAttack-Champion-e3a008?style=flat-square"/><br/><a href="https://github.com/JeffTiong1031/Vanguard-HackAttack-Champions"><strong>repo ↗</strong></a></p>
       <p><em>Stops sensitive company data from ever reaching ChatGPT or Claude — and runs the detection on the employee's own device, so the prompt never leaves it.</em></p>
       <ul>
         <li>On-device intent classifier in <strong>~0.6 ms</strong>, zero ML runtime shipped</li>
@@ -126,10 +126,11 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       </p>
       <p><sub><em>Team T-Junction</em></sub></p>
+      <br/>
     </td>
     <td width="50%" valign="top" align="left">
       <h3>🚁 GodEye</h3>
-      <p><img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-aaaaaa?style=flat-square"/> &nbsp;<a href="https://github.com/tehjiajie6754/GodEye"><strong>repo ↗</strong></a></p>
+      <p><img src="https://img.shields.io/badge/🏅_VHACK-4th_Place-aaaaaa?style=flat-square"/><br/><a href="https://github.com/tehjiajie6754/GodEye"><strong>repo ↗</strong></a></p>
       <p><em>Coordinates four drones flying a simultaneous S-shaped lawnmower search across assigned sectors, streaming live telemetry to a 2D dashboard.</em></p>
       <ul>
         <li>4 drones · 4 sectors · simultaneous lawnmower sweep</li>
@@ -144,6 +145,7 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       </p>
       <p><sub><em>Team T-Junction</em></sub></p>
+      <br/>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -165,6 +167,7 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/AI%2FML_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
       </p>
       <p><sub><em>Team T-Junction</em></sub></p>
+      <br/>
     </td>
     <td width="50%" valign="top" align="left">
       <h3>✈️ Zen Travel</h3>
@@ -180,6 +183,7 @@ Currently **open to internships**.
         <img src="https://img.shields.io/badge/Face_Recognition-FF6B6B?style=flat-square"/>
       </p>
       <p><sub><em>Team T-Junction</em></sub></p>
+      <br/>
     </td>
   </tr>
 </table>
